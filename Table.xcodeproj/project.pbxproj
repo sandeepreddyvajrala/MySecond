@@ -15,6 +15,7 @@
 		84A5F9691E4D9972002D7074 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 84A5F9671E4D9972002D7074 /* LaunchScreen.storyboard */; };
 		84A5F9721E4D99C6002D7074 /* ButtonTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 84A5F9711E4D99C6002D7074 /* ButtonTableViewCell.m */; };
 		84A5F9751E4D9A3B002D7074 /* SecondViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 84A5F9741E4D9A3B002D7074 /* SecondViewController.m */; };
+		84A717411EE649DC00480914 /* ThirdViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 84A717401EE649DC00480914 /* ThirdViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +33,8 @@
 		84A5F9711E4D99C6002D7074 /* ButtonTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ButtonTableViewCell.m; sourceTree = "<group>"; };
 		84A5F9731E4D9A3B002D7074 /* SecondViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SecondViewController.h; sourceTree = "<group>"; };
 		84A5F9741E4D9A3B002D7074 /* SecondViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SecondViewController.m; sourceTree = "<group>"; };
+		84A7173F1EE649DC00480914 /* ThirdViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ThirdViewController.h; sourceTree = "<group>"; };
+		84A717401EE649DC00480914 /* ThirdViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ThirdViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -68,6 +71,8 @@
 				84A5F95D1E4D9972002D7074 /* AppDelegate.m */,
 				84A5F95F1E4D9972002D7074 /* ViewController.h */,
 				84A5F9601E4D9972002D7074 /* ViewController.m */,
+				84A7173F1EE649DC00480914 /* ThirdViewController.h */,
+				84A717401EE649DC00480914 /* ThirdViewController.m */,
 				84A5F9621E4D9972002D7074 /* Main.storyboard */,
 				84A5F9651E4D9972002D7074 /* Assets.xcassets */,
 				84A5F9671E4D9972002D7074 /* LaunchScreen.storyboard */,
@@ -162,6 +167,7 @@
 			files = (
 				84A5F9751E4D9A3B002D7074 /* SecondViewController.m in Sources */,
 				84A5F9611E4D9972002D7074 /* ViewController.m in Sources */,
+				84A717411EE649DC00480914 /* ThirdViewController.m in Sources */,
 				84A5F95E1E4D9972002D7074 /* AppDelegate.m in Sources */,
 				84A5F95B1E4D9972002D7074 /* main.m in Sources */,
 				84A5F9721E4D99C6002D7074 /* ButtonTableViewCell.m in Sources */,
@@ -321,6 +327,7 @@
 				84A5F96F1E4D9972002D7074 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
